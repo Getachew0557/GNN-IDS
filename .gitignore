@@ -1,3 +1,4 @@
 dataset
+dataset/*
 .env
 .base
