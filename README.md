@@ -1,1 +1,2 @@
 Attention Based GNN for Intrusion detection system
+The escalating sophistication of cyber threats, particularly low-signature attacks that emulate legitimate network traffic, poses formidable challenges for conventional intrusion detection systems. To address this gap, we propose an attention based Graph Neural Network (GNN) framework for cyber threat detection that models network traffic as dynamic graphs, capturing both temporal and structural relationships to extract complicated attack patterns.
