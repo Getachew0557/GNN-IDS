@@ -2,3 +2,6 @@ dataset
 dataset/*
 .env
 .base
+*.ipynb_checkpoints
+__pycache__/*
+*.ipynb
